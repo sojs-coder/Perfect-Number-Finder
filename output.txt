@@ -1,2 +1,22 @@
+=====================================
 Testing for P values of 2^P - 1
------------------------------
+Session started at 2024-03-10T04:04:39.348Z
+=====================================
+16 workers
+1000 max queue
+Starting from  0 to 1000...
+FOUND: 127
+FOUND: 31
+FOUND: 3
+FOUND: 7
+FOUND: 8191
+FOUND: 131071
+FOUND: 524287
+FOUND: 2147483647
+=====================================
+Testing for P values of 2^P - 1
+Session started at 2024-03-10T04:08:02.934Z
+=====================================
+16 workers
+1000 max queue
+Starting from  226 to 1000...
